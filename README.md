@@ -2,7 +2,7 @@
 
 ** A simple calc by javascript **
 
-![view](https://github.com/danial-barati/portfolio-main/assets/104683176/b25ac8c3-4f0c-4129-a11f-4642c781c771)
+![view](https://github.com/danial-barati/calculator/assets/104683176/4f178811-9231-4984-b1c7-4cb32ec82a34)
 
 - 🔗 [demo](https://danial-barati.github.io/portfolio-main/)
 
