@@ -42,7 +42,7 @@ let _func = document.querySelectorAll('.func')
             let num1 = Number(document.getElementById('num1').value)
             let num2 = Number(document.getElementById('num2').value)
                 if (outp != '') {
-                    if (num1 != '' || num2 != '') {
+                    if (num1 != '' && num2 != '') {
                         switch (outp) {
                             case '+':
                                 sum = num1 + num2
